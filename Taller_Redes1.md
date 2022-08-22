@@ -44,7 +44,7 @@ print('hello word', c)
 <!-- TABLES -->
 | Product       | Price         |quantity   |
 | ------------- |:-------------:| :--------:|
-| Laptop        | 3.33          | 2         |
+| Laptop        | 3.33          | 3         |
 | Mouse         | 10.33         | 1         |
 
 ![profile picture](Twitter.jpg "profile")
@@ -52,4 +52,9 @@ print('hello word', c)
 --- 
 
 <!-- GITHUB MARKDOWN -->
+
+* [x] task1
+* [] task2
+* [] task3
+* [x] task4
 
